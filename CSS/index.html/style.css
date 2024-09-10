@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+ 
+  }
+
+
+p {
+  color:white;
+}
+
+P {
+  text-shadow: 2px 2px 5px black;
+}
+
+
+p {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+P { font-size: 600px
+ }
+ 
